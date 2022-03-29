@@ -5,7 +5,7 @@ I do stuff. I will gladly recieve any invitation to work on a project you have.<
 - minecraft development<br>
 
 
-**Feel free to reach out to me about how to improve my code.**
+**Feel free to nag me about how to improve my code.**
 
 
 
