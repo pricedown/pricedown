@@ -1,6 +1,6 @@
 ### pricedown
 
-I appreciate informed nitpicking!
+I appreciate informed nitpicks!
 
 <!---
 pricedown/pricedown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
